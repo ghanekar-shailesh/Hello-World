@@ -1,3 +1,2 @@
 This is dictionary.
-
-This is change in branch.
+This is change in master.
